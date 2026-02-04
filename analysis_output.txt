@@ -1,0 +1,598 @@
+Analyzing finance dashboard...                                  
+
+   info • Use 'package:' imports for files in the 'lib' directory • lib/app.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/app.dart:5:8 • always_use_package_imports
+   info • The value of the argument is redundant because it matches the default value • lib/app.dart:17:18 • avoid_redundant_argument_values
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:2:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:4:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/providers.dart:5:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:5:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/providers.dart:6:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:6:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:7:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:8:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:9:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/providers.dart:10:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/providers.dart:10:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:5:8 • always_use_package_imports
+warning • Unused import: '../../domain/repositories/auth_repository.dart' • lib/core/routing/app_router.dart:5:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:6:8 • always_use_package_imports
+warning • Unused import: '../../domain/repositories/company_repository.dart' • lib/core/routing/app_router.dart:6:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:7:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/routing/app_router.dart:9:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:9:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:10:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/routing/app_router.dart:11:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:11:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:12:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:13:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/routing/app_router.dart:14:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:14:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:15:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/routing/app_router.dart:16:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:16:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:17:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/core/routing/app_router.dart:18:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:18:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:19:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:20:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/routing/app_router.dart:21:8 • always_use_package_imports
+   info • 'Future'-returning calls in a non-'async' function • lib/core/routing/app_router.dart:143:19 • discarded_futures
+warning • Unused import: 'package:google_fonts/google_fonts.dart' • lib/core/theme/app_theme.dart:2:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/theme/app_theme.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/theme/app_theme.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/theme/app_typography.dart:4:8 • always_use_package_imports
+   info • Static method should be a constructor • lib/core/theme/app_typography.dart:60:24 • prefer_constructors_over_static_methods
+   info • Sort directive sections alphabetically • lib/core/widgets/app_buttons.dart:2:1 • directives_ordering
+warning • Unused import: 'package:flutter/services.dart' • lib/core/widgets/app_scaffold.dart:2:8 • unused_import
+   info • Sort directive sections alphabetically • lib/core/widgets/app_scaffold.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/core/widgets/app_text_field.dart:2:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/core/widgets/date_range_picker.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/widgets/date_range_picker.dart:4:8 • always_use_package_imports
+   info • The value of the argument is redundant because it matches the default value • lib/core/widgets/date_range_picker.dart:88:60 • avoid_redundant_argument_values
+   info • Sort directive sections alphabetically • lib/core/widgets/finance_app_bar.dart:2:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/core/widgets/finance_card.dart:2:1 • directives_ordering
+warning • The value of the local variable 'colors' isn't used • lib/core/widgets/finance_card.dart:22:11 • unused_local_variable
+   info • Use the null-aware marker '?' rather than a null check via an 'if' • lib/core/widgets/finance_card.dart:38:15 • use_null_aware_elements
+   info • Sort directive sections alphabetically • lib/core/widgets/kpi_stat_tile.dart:2:1 • directives_ordering
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/kpi_stat_tile.dart:46:46 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/kpi_stat_tile.dart:47:44 • deprecated_member_use
+   info • Use 'package:' imports for files in the 'lib' directory • lib/core/widgets/status_pill.dart:2:8 • always_use_package_imports
+   info • Place 'package:' imports before relative imports • lib/core/widgets/status_pill.dart:3:1 • directives_ordering
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:27:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:29:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:31:38 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:32:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:34:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:36:35 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:37:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:39:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:41:38 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:42:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:46:40 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:48:36 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:49:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:89:42 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:90:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:93:40 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:94:9 • unnecessary_breaks
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/widgets/status_pill.dart:97:39 • deprecated_member_use
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:98:9 • unnecessary_breaks
+   info • Unnecessary 'break' statement • lib/core/widgets/status_pill.dart:102:9 • unnecessary_breaks
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:2:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/mocks/mock_data.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:4:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/mocks/mock_data.dart:5:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:5:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/mocks/mock_data.dart:6:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/mocks/mock_data.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:7:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:8:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:9:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:10:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/mocks/mock_data.dart:11:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/mocks/mock_data.dart:11:8 • always_use_package_imports
+   info • The value of the argument is redundant because it matches the default value • lib/data/mocks/mock_data.dart:47:40 • avoid_redundant_argument_values
+   info • The value of the argument is redundant because it matches the default value • lib/data/mocks/mock_data.dart:59:40 • avoid_redundant_argument_values
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:73:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:88:17 • prefer_int_literals
+   info • Use the constant 'Duration.zero' rather than a constructor returning the same object • lib/data/mocks/mock_data.dart:101:39 • use_named_constants
+   info • The value of the argument is redundant because it matches the default value • lib/data/mocks/mock_data.dart:101:60 • avoid_redundant_argument_values
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:102:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:144:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:155:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:171:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:172:16 • prefer_int_literals
+   info • The value of the argument is redundant because it matches the default value • lib/data/mocks/mock_data.dart:174:39 • avoid_redundant_argument_values
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:181:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:182:16 • prefer_int_literals
+   info • The value of the argument is redundant because it matches the default value • lib/data/mocks/mock_data.dart:184:39 • avoid_redundant_argument_values
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:191:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:192:16 • prefer_int_literals
+   info • The value of the argument is redundant because it matches the default value • lib/data/mocks/mock_data.dart:194:39 • avoid_redundant_argument_values
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:205:23 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:206:24 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:214:23 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:215:24 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:223:23 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:224:24 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:264:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:274:17 • prefer_int_literals
+   info • Unnecessary use of a 'double' literal • lib/data/mocks/mock_data.dart:284:17 • prefer_int_literals
+warning • Unused import: 'package:uuid/uuid.dart' • lib/data/repositories/mock_repositories.dart:2:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:3:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/repositories/mock_repositories.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:5:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/repositories/mock_repositories.dart:6:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:6:8 • always_use_package_imports
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:7:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:8:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:9:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:10:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:11:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:12:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:13:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/data/repositories/mock_repositories.dart:14:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:14:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:15:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:16:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:17:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:18:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/data/repositories/mock_repositories.dart:19:8 • always_use_package_imports
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:20:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:21:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:22:1 • directives_ordering
+   info • Place 'package:' imports before relative imports • lib/data/repositories/mock_repositories.dart:24:1 • directives_ordering
+   info • Constructor declarations should be before non-constructor declarations • lib/data/repositories/mock_repositories.dart:34:3 • sort_constructors_first
+   info • 'Future'-returning calls in a non-'async' function • lib/data/repositories/mock_repositories.dart:35:5 • discarded_futures
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:54:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:63:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:84:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:90:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:106:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:112:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:124:11 • inference_failure_on_instance_creation
+   info • The private field _transactions could be 'final' • lib/data/repositories/mock_repositories.dart:140:21 • prefer_final_fields
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:148:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:160:11 • inference_failure_on_instance_creation
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/data/repositories/mock_repositories.dart:163:7 • avoid_catches_without_on_clauses
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:170:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:193:11 • inference_failure_on_instance_creation
+   info • Unnecessary duplication of receiver • lib/data/repositories/mock_repositories.dart:200:5 • cascade_invocations
+   info • The variable 'companyId' should be final • lib/data/repositories/mock_repositories.dart:215:14 • prefer_final_in_for_each
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:228:11 • inference_failure_on_instance_creation
+   info • Unnecessary duplication of receiver • lib/data/repositories/mock_repositories.dart:235:5 • cascade_invocations
+   info • The variable 'companyId' should be final • lib/data/repositories/mock_repositories.dart:250:15 • prefer_final_in_for_each
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:261:11 • inference_failure_on_instance_creation
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/data/repositories/mock_repositories.dart:293:11 • inference_failure_on_instance_creation
+   info • Unnecessary duplication of receiver • lib/data/repositories/mock_repositories.dart:300:5 • cascade_invocations
+   info • The variable 'companyId' should be final • lib/data/repositories/mock_repositories.dart:315:15 • prefer_final_in_for_each
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/bank_account.dart:39:11 • sort_constructors_first
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/budget.dart:33:11 • sort_constructors_first
+   info • Unnecessary use of a null check ('!') • lib/domain/models/budget.g.dart:27:51 • unnecessary_null_checks
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/budget.g.dart:31:1 • specify_nonobvious_property_types
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/company.dart:26:11 • sort_constructors_first
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/goal.dart:32:11 • sort_constructors_first
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/invoice.dart:47:11 • sort_constructors_first
+   info • Unnecessary use of a null check ('!') • lib/domain/models/invoice.g.dart:32:52 • unnecessary_null_checks
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/invoice.g.dart:37:1 • specify_nonobvious_property_types
+   info • Required named parameters should be before optional named parameters • lib/domain/models/notification.dart:16:19 • always_put_required_named_parameters_first
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/notification.dart:28:11 • sort_constructors_first
+   info • Unnecessary use of a null check ('!') • lib/domain/models/notification.g.dart:27:55 • unnecessary_null_checks
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/notification.g.dart:31:1 • specify_nonobvious_property_types
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/subscription.dart:32:11 • sort_constructors_first
+   info • Unnecessary use of a null check ('!') • lib/domain/models/subscription.g.dart:29:61 • unnecessary_null_checks
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/subscription.g.dart:34:1 • specify_nonobvious_property_types
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/models/transaction.dart:3:8 • always_use_package_imports
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/transaction.dart:61:11 • sort_constructors_first
+   info • Unnecessary use of a null check ('!') • lib/domain/models/transaction.g.dart:47:69 • unnecessary_null_checks
+   info • Unnecessary use of a null check ('!') • lib/domain/models/transaction.g.dart:48:60 • unnecessary_null_checks
+   info • Unnecessary use of a null check ('!') • lib/domain/models/transaction.g.dart:49:50 • unnecessary_null_checks
+   info • Unnecessary use of a null check ('!') • lib/domain/models/transaction.g.dart:51:71 • unnecessary_null_checks
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/transaction.g.dart:62:1 • specify_nonobvious_property_types
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/transaction.g.dart:67:1 • specify_nonobvious_property_types
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/transaction.g.dart:77:1 • specify_nonobvious_property_types
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/transaction.g.dart:86:1 • specify_nonobvious_property_types
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/user.dart:29:11 • sort_constructors_first
+   info • Unnecessary use of a null check ('!') • lib/domain/models/user.g.dart:21:43 • unnecessary_null_checks
+   info • A type annotation is needed because it isn't obvious • lib/domain/models/user.g.dart:25:1 • specify_nonobvious_property_types
+   info • Constructor declarations should be before non-constructor declarations • lib/domain/models/vendor.dart:37:11 • sort_constructors_first
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/auth_repository.dart:1:8 • always_use_package_imports
+warning • Unused import: '../models/user.dart' • lib/domain/repositories/auth_repository.dart:1:8 • unused_import
+   info • To-do comment doesn't follow the Flutter style • lib/domain/repositories/auth_repository.dart:1:31 • flutter_style_todos
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/budget_repository.dart:1:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/company_repository.dart:1:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/domain/repositories/company_repository.dart:2:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/company_repository.dart:2:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/company_repository.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/goal_repository.dart:1:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/invoice_repository.dart:1:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/notification_repository.dart:1:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/subscription_repository.dart:1:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/transaction_repository.dart:2:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/domain/repositories/transaction_repository.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/domain/repositories/transaction_repository.dart:3:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/approvals/presentation/screens/approvals_screen.dart:3:1 • directives_ordering
+warning • Unused import: 'package:agency_finance/core/widgets/status_pill.dart' • lib/features/approvals/presentation/screens/approvals_screen.dart:4:8 • unused_import
+warning • Unused import: 'package:agency_finance/domain/repositories/transaction_repository.dart' • lib/features/approvals/presentation/screens/approvals_screen.dart:6:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/approvals/presentation/screens/approvals_screen.dart:7:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/approvals/presentation/screens/approvals_screen.dart:9:1 • directives_ordering
+   info • Unnecessary use of multiple underscores • lib/features/approvals/presentation/screens/approvals_screen.dart:76:33 • unnecessary_underscores
+   info • 'Future'-returning calls in a non-'async' function • lib/features/approvals/presentation/screens/approvals_screen.dart:81:27 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/approvals/presentation/screens/approvals_screen.dart:81:41 • inference_failure_on_instance_creation
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/controllers/auth_controller.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/controllers/auth_controller.dart:4:8 • always_use_package_imports
+warning • Unused import: '../../../../core/routing/app_router.dart' • lib/features/auth/presentation/controllers/auth_controller.dart:4:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/controllers/auth_controller.dart:5:8 • always_use_package_imports
+warning • Unused import: '../../../../core/routing/app_routes.dart' • lib/features/auth/presentation/controllers/auth_controller.dart:5:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/auth/presentation/screens/login_screen.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/screens/login_screen.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/screens/login_screen.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/screens/login_screen.dart:6:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/auth/presentation/screens/login_screen.dart:7:8 • always_use_package_imports
+   info • Closure should be a tearoff • lib/features/auth/presentation/screens/login_screen.dart:30:33 • unnecessary_lambdas
+   info • 'Future'-returning calls in a non-'async' function • lib/features/auth/presentation/screens/login_screen.dart:74:65 • discarded_futures
+   info • To-do comment doesn't follow the Flutter style • lib/features/auth/presentation/screens/login_screen.dart:85:19 • flutter_style_todos
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/budget/presentation/controllers/budget_controller.dart:2:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/budget/presentation/controllers/budget_controller.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/budget/presentation/controllers/budget_controller.dart:3:8 • always_use_package_imports
+   info • A type annotation is needed because it isn't obvious • lib/features/budget/presentation/controllers/budget_controller.dart:5:1 • specify_nonobvious_property_types
+  error • The function 'StateNotifierProvider' isn't defined • lib/features/budget/presentation/controllers/budget_controller.dart:5:34 • undefined_function
+warning • The type of ref can't be inferred; a type must be explicitly provided • lib/features/budget/presentation/controllers/budget_controller.dart:5:101 • inference_failure_on_untyped_parameter
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Ref'.  • lib/features/budget/presentation/controllers/budget_controller.dart:6:27 • argument_type_not_assignable
+  error • Classes can only extend other classes • lib/features/budget/presentation/controllers/budget_controller.dart:9:32 • extends_non_class
+  error • Too many positional arguments: 0 expected, but 1 found • lib/features/budget/presentation/controllers/budget_controller.dart:10:38 • extra_positional_arguments
+warning • The type argument(s) of the constructor 'AsyncValue.loading' can't be inferred • lib/features/budget/presentation/controllers/budget_controller.dart:10:44 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/budget/presentation/controllers/budget_controller.dart:11:5 • discarded_futures
+  error • Undefined name 'state' • lib/features/budget/presentation/controllers/budget_controller.dart:17:5 • undefined_identifier
+warning • The type argument(s) of the constructor 'AsyncValue.loading' can't be inferred • lib/features/budget/presentation/controllers/budget_controller.dart:17:19 • inference_failure_on_instance_creation
+  error • Undefined name 'state' • lib/features/budget/presentation/controllers/budget_controller.dart:20:7 • undefined_identifier
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/features/budget/presentation/controllers/budget_controller.dart:21:7 • avoid_catches_without_on_clauses
+  error • Undefined name 'state' • lib/features/budget/presentation/controllers/budget_controller.dart:22:7 • undefined_identifier
+warning • The type argument(s) of the constructor 'AsyncValue.error' can't be inferred • lib/features/budget/presentation/controllers/budget_controller.dart:22:15 • inference_failure_on_instance_creation
+   info • Sort directive sections alphabetically • lib/features/budget/presentation/screens/budget_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/budget/presentation/screens/budget_screen.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/budget/presentation/screens/budget_screen.dart:7:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/budget/presentation/screens/budget_screen.dart:8:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/budget/presentation/screens/budget_screen.dart:8:8 • always_use_package_imports
+warning • The type argument(s) of the function 'watch' can't be inferred • lib/features/budget/presentation/screens/budget_screen.dart:15:23 • inference_failure_on_function_invocation
+   info • Method invocation or property access on a 'dynamic' target • lib/features/budget/presentation/screens/budget_screen.dart:19:13 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Widget?'.  • lib/features/budget/presentation/screens/budget_screen.dart:19:13 • argument_type_not_assignable
+warning • The type of budgets can't be inferred; a type must be explicitly provided • lib/features/budget/presentation/screens/budget_screen.dart:20:16 • inference_failure_on_untyped_parameter
+   info • Method invocation or property access on a 'dynamic' target • lib/features/budget/presentation/screens/budget_screen.dart:22:22 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'int'.  • lib/features/budget/presentation/screens/budget_screen.dart:22:22 • argument_type_not_assignable
+   info • Unnecessary use of multiple underscores • lib/features/budget/presentation/screens/budget_screen.dart:23:33 • unnecessary_underscores
+   info • Method invocation or property access on a 'dynamic' target • lib/features/budget/presentation/screens/budget_screen.dart:25:28 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Budget'.  • lib/features/budget/presentation/screens/budget_screen.dart:26:40 • argument_type_not_assignable
+warning • The type of err can't be inferred; a type must be explicitly provided • lib/features/budget/presentation/screens/budget_screen.dart:30:17 • inference_failure_on_untyped_parameter
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/goals/presentation/controllers/goal_controller.dart:2:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/goals/presentation/controllers/goal_controller.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/goals/presentation/controllers/goal_controller.dart:3:8 • always_use_package_imports
+   info • A type annotation is needed because it isn't obvious • lib/features/goals/presentation/controllers/goal_controller.dart:5:1 • specify_nonobvious_property_types
+  error • The function 'StateNotifierProvider' isn't defined • lib/features/goals/presentation/controllers/goal_controller.dart:5:32 • undefined_function
+warning • The type of ref can't be inferred; a type must be explicitly provided • lib/features/goals/presentation/controllers/goal_controller.dart:5:95 • inference_failure_on_untyped_parameter
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Ref'.  • lib/features/goals/presentation/controllers/goal_controller.dart:6:25 • argument_type_not_assignable
+  error • Classes can only extend other classes • lib/features/goals/presentation/controllers/goal_controller.dart:9:30 • extends_non_class
+  error • Too many positional arguments: 0 expected, but 1 found • lib/features/goals/presentation/controllers/goal_controller.dart:10:36 • extra_positional_arguments
+warning • The type argument(s) of the constructor 'AsyncValue.loading' can't be inferred • lib/features/goals/presentation/controllers/goal_controller.dart:10:42 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/goals/presentation/controllers/goal_controller.dart:11:5 • discarded_futures
+  error • Undefined name 'state' • lib/features/goals/presentation/controllers/goal_controller.dart:17:5 • undefined_identifier
+warning • The type argument(s) of the constructor 'AsyncValue.loading' can't be inferred • lib/features/goals/presentation/controllers/goal_controller.dart:17:19 • inference_failure_on_instance_creation
+  error • Undefined name 'state' • lib/features/goals/presentation/controllers/goal_controller.dart:20:7 • undefined_identifier
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/features/goals/presentation/controllers/goal_controller.dart:21:7 • avoid_catches_without_on_clauses
+  error • Undefined name 'state' • lib/features/goals/presentation/controllers/goal_controller.dart:22:7 • undefined_identifier
+warning • The type argument(s) of the constructor 'AsyncValue.error' can't be inferred • lib/features/goals/presentation/controllers/goal_controller.dart:22:15 • inference_failure_on_instance_creation
+   info • Sort directive sections alphabetically • lib/features/goals/presentation/screens/goals_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/goals/presentation/screens/goals_screen.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/goals/presentation/screens/goals_screen.dart:7:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/goals/presentation/screens/goals_screen.dart:8:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/goals/presentation/screens/goals_screen.dart:8:8 • always_use_package_imports
+warning • The type argument(s) of the function 'watch' can't be inferred • lib/features/goals/presentation/screens/goals_screen.dart:15:23 • inference_failure_on_function_invocation
+   info • Method invocation or property access on a 'dynamic' target • lib/features/goals/presentation/screens/goals_screen.dart:19:13 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Widget?'.  • lib/features/goals/presentation/screens/goals_screen.dart:19:13 • argument_type_not_assignable
+warning • The type of goals can't be inferred; a type must be explicitly provided • lib/features/goals/presentation/screens/goals_screen.dart:20:16 • inference_failure_on_untyped_parameter
+   info • Method invocation or property access on a 'dynamic' target • lib/features/goals/presentation/screens/goals_screen.dart:22:22 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'int'.  • lib/features/goals/presentation/screens/goals_screen.dart:22:22 • argument_type_not_assignable
+   info • Unnecessary use of multiple underscores • lib/features/goals/presentation/screens/goals_screen.dart:23:33 • unnecessary_underscores
+   info • Method invocation or property access on a 'dynamic' target • lib/features/goals/presentation/screens/goals_screen.dart:25:26 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Goal'.  • lib/features/goals/presentation/screens/goals_screen.dart:26:36 • argument_type_not_assignable
+warning • The type of err can't be inferred; a type must be explicitly provided • lib/features/goals/presentation/screens/goals_screen.dart:30:17 • inference_failure_on_untyped_parameter
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/controllers/dashboard_controller.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/controllers/dashboard_controller.dart:4:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/home/presentation/controllers/dashboard_controller.dart:5:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/controllers/dashboard_controller.dart:5:8 • always_use_package_imports
+   info • Constructor declarations should be before non-constructor declarations • lib/features/home/presentation/controllers/dashboard_controller.dart:13:3 • sort_constructors_first
+   info • Local variables should be final • lib/features/home/presentation/controllers/dashboard_controller.dart:34:5 • prefer_final_locals
+   info • Local variables should be final • lib/features/home/presentation/controllers/dashboard_controller.dart:36:5 • prefer_final_locals
+   info • The value of the argument is redundant because it matches the default value • lib/features/home/presentation/controllers/dashboard_controller.dart:43:56 • avoid_redundant_argument_values
+   info • The variable 'tx' should be final • lib/features/home/presentation/controllers/dashboard_controller.dart:45:14 • prefer_final_in_for_each
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/controllers/notification_controller.dart:2:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/home/presentation/controllers/notification_controller.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/controllers/notification_controller.dart:3:8 • always_use_package_imports
+   info • A type annotation is needed because it isn't obvious • lib/features/home/presentation/controllers/notification_controller.dart:5:1 • specify_nonobvious_property_types
+  error • The function 'StateNotifierProvider' isn't defined • lib/features/home/presentation/controllers/notification_controller.dart:5:40 • undefined_function
+warning • The type of ref can't be inferred; a type must be explicitly provided • lib/features/home/presentation/controllers/notification_controller.dart:5:122 • inference_failure_on_untyped_parameter
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Ref'.  • lib/features/home/presentation/controllers/notification_controller.dart:6:33 • argument_type_not_assignable
+  error • Classes can only extend other classes • lib/features/home/presentation/controllers/notification_controller.dart:9:38 • extends_non_class
+  error • Too many positional arguments: 0 expected, but 1 found • lib/features/home/presentation/controllers/notification_controller.dart:10:44 • extra_positional_arguments
+warning • The type argument(s) of the constructor 'AsyncValue.loading' can't be inferred • lib/features/home/presentation/controllers/notification_controller.dart:10:50 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/home/presentation/controllers/notification_controller.dart:11:5 • discarded_futures
+  error • Undefined name 'state' • lib/features/home/presentation/controllers/notification_controller.dart:17:5 • undefined_identifier
+warning • The type argument(s) of the constructor 'AsyncValue.loading' can't be inferred • lib/features/home/presentation/controllers/notification_controller.dart:17:19 • inference_failure_on_instance_creation
+  error • Undefined name 'state' • lib/features/home/presentation/controllers/notification_controller.dart:20:7 • undefined_identifier
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/features/home/presentation/controllers/notification_controller.dart:21:7 • avoid_catches_without_on_clauses
+  error • Undefined name 'state' • lib/features/home/presentation/controllers/notification_controller.dart:22:7 • undefined_identifier
+warning • The type argument(s) of the constructor 'AsyncValue.error' can't be inferred • lib/features/home/presentation/controllers/notification_controller.dart:22:15 • inference_failure_on_instance_creation
+   info • Missing an 'await' for the 'Future' computed by this expression • lib/features/home/presentation/controllers/notification_controller.dart:29:7 • unawaited_futures
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/features/home/presentation/controllers/notification_controller.dart:30:7 • avoid_catches_without_on_clauses
+   info • Missing an 'await' for the 'Future' computed by this expression • lib/features/home/presentation/controllers/notification_controller.dart:38:7 • unawaited_futures
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/features/home/presentation/controllers/notification_controller.dart:39:7 • avoid_catches_without_on_clauses
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/home/presentation/screens/home_screen.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:7:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:8:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/home/presentation/screens/home_screen.dart:9:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:9:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/home_screen.dart:10:8 • always_use_package_imports
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Widget?'.  • lib/features/home/presentation/screens/main_shell_screen.dart:9:13 • argument_type_not_assignable
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/main_shell_screen.dart:18:23 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'int'.  • lib/features/home/presentation/screens/main_shell_screen.dart:18:23 • argument_type_not_assignable
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/main_shell_screen.dart:19:27 • avoid_dynamic_calls
+   info • Sort directive sections alphabetically • lib/features/home/presentation/screens/notifications_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/home/presentation/screens/notifications_screen.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/notifications_screen.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/home/presentation/screens/notifications_screen.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/screens/notifications_screen.dart:7:8 • always_use_package_imports
+warning • The type argument(s) of the function 'watch' can't be inferred • lib/features/home/presentation/screens/notifications_screen.dart:14:23 • inference_failure_on_function_invocation
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/notifications_screen.dart:21:30 • avoid_dynamic_calls
+warning • The type argument(s) of the function 'read' can't be inferred • lib/features/home/presentation/screens/notifications_screen.dart:21:34 • inference_failure_on_function_invocation
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/notifications_screen.dart:26:13 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'Widget?'.  • lib/features/home/presentation/screens/notifications_screen.dart:26:13 • argument_type_not_assignable
+warning • The type of notifications can't be inferred; a type must be explicitly provided • lib/features/home/presentation/screens/notifications_screen.dart:27:16 • inference_failure_on_untyped_parameter
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/notifications_screen.dart:28:15 • avoid_dynamic_calls
+  error • Conditions must have a static type of 'bool' • lib/features/home/presentation/screens/notifications_screen.dart:28:15 • non_bool_condition
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/notifications_screen.dart:33:24 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'int'.  • lib/features/home/presentation/screens/notifications_screen.dart:33:24 • argument_type_not_assignable
+   info • Unnecessary use of multiple underscores • lib/features/home/presentation/screens/notifications_screen.dart:34:35 • unnecessary_underscores
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/notifications_screen.dart:36:36 • avoid_dynamic_calls
+  error • The argument type 'dynamic' can't be assigned to the parameter type 'AppNotification'.  • lib/features/home/presentation/screens/notifications_screen.dart:37:54 • argument_type_not_assignable
+warning • The type of err can't be inferred; a type must be explicitly provided • lib/features/home/presentation/screens/notifications_screen.dart:42:17 • inference_failure_on_untyped_parameter
+   info • Method invocation or property access on a 'dynamic' target • lib/features/home/presentation/screens/notifications_screen.dart:57:11 • avoid_dynamic_calls
+warning • The type argument(s) of the function 'read' can't be inferred • lib/features/home/presentation/screens/notifications_screen.dart:57:15 • inference_failure_on_function_invocation
+   info • Invalid use of 'default' member in a switch • lib/features/home/presentation/screens/notifications_screen.dart:97:7 • no_default_cases
+   info • Invalid use of 'default' member in a switch • lib/features/home/presentation/screens/notifications_screen.dart:107:7 • no_default_cases
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/cash_flow_chart.dart:3:8 • always_use_package_imports
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:25:29 • prefer_const_constructors
+   info • The value of the argument is redundant because it matches the default value • lib/features/home/presentation/widgets/cash_flow_chart.dart:27:27 • avoid_redundant_argument_values
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:28:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:28:55 • prefer_const_constructors
+   info • The value of the argument is redundant because it matches the default value • lib/features/home/presentation/widgets/cash_flow_chart.dart:28:78 • avoid_redundant_argument_values
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:29:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:29:57 • prefer_const_constructors
+   info • The value of the argument is redundant because it matches the default value • lib/features/home/presentation/widgets/cash_flow_chart.dart:29:80 • avoid_redundant_argument_values
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:59:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/home/presentation/widgets/cash_flow_chart.dart:78:32 • prefer_const_constructors
+   info • The value of the argument is redundant because it matches the default value • lib/features/home/presentation/widgets/cash_flow_chart.dart:79:55 • avoid_redundant_argument_values
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/dashboard_stats_grid.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/dashboard_stats_grid.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/recent_activity_list.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/recent_activity_list.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/recent_activity_list.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/recent_activity_list.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/home/presentation/widgets/recent_activity_list.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/home/presentation/widgets/recent_activity_list.dart:7:8 • always_use_package_imports
+   info • Unnecessary use of multiple underscores • lib/features/home/presentation/widgets/recent_activity_list.dart:40:31 • unnecessary_underscores
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/bank_account_detail_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/company_detail_screen.dart:3:1 • directives_ordering
+warning • Dead code • lib/features/more/presentation/screens/company_detail_screen.dart:52:69 • dead_code
+warning • The left operand can't be null, so the right operand is never executed • lib/features/more/presentation/screens/company_detail_screen.dart:52:72 • dead_null_aware_expression
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/help_support_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/help_support_screen.dart:5:1 • directives_ordering
+warning • Unused import: 'package:agency_finance/core/widgets/app_buttons.dart' • lib/features/more/presentation/screens/help_support_screen.dart:5:8 • unused_import
+  error • The getter 'h3' isn't defined for the type 'AppTypography' • lib/features/more/presentation/screens/help_support_screen.dart:17:66 • undefined_getter
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/help_support_screen.dart:42:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/help_support_screen.dart:46:11 • prefer_const_constructors
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/invoice_detail_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/invoice_detail_screen.dart:8:1 • directives_ordering
+   info • Unnecessary 'break' statement • lib/features/more/presentation/screens/invoice_detail_screen.dart:98:54 • unnecessary_breaks
+   info • Unnecessary 'break' statement • lib/features/more/presentation/screens/invoice_detail_screen.dart:99:57 • unnecessary_breaks
+   info • Unnecessary 'break' statement • lib/features/more/presentation/screens/invoice_detail_screen.dart:100:55 • unnecessary_breaks
+   info • Invalid use of 'default' member in a switch • lib/features/more/presentation/screens/invoice_detail_screen.dart:101:7 • no_default_cases
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/more/presentation/screens/more_screen.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/more/presentation/screens/more_screen.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/more_screen.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/more/presentation/screens/more_screen.dart:7:8 • always_use_package_imports
+   info • Place 'package:' imports before relative imports • lib/features/more/presentation/screens/more_screen.dart:8:1 • directives_ordering
+warning • The value of the local variable 'colors' isn't used • lib/features/more/presentation/screens/more_screen.dart:15:11 • unused_local_variable
+warning • The value of the local variable 'typography' isn't used • lib/features/more/presentation/screens/more_screen.dart:16:11 • unused_local_variable
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/more_screen.dart:23:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/more_screen.dart:28:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/more_screen.dart:34:13 • prefer_const_constructors
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/more_screen.dart:43:59 • discarded_futures
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/organization_details_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/organization_details_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/organization_details_screen.dart:6:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/organization_details_screen.dart:7:1 • directives_ordering
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/organization_details_screen.dart:22:15 • undefined_named_parameter
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/organization_details_screen.dart:28:15 • undefined_named_parameter
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/organization_details_screen.dart:33:15 • undefined_named_parameter
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/organization_details_screen.dart:38:15 • undefined_named_parameter
+  error • Undefined name 'AppButton' • lib/features/more/presentation/screens/organization_details_screen.dart:42:13 • undefined_identifier
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/profile_details_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/profile_details_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/profile_details_screen.dart:6:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/profile_details_screen.dart:7:1 • directives_ordering
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/profile_details_screen.dart:29:15 • undefined_named_parameter
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/profile_details_screen.dart:35:15 • undefined_named_parameter
+  error • The named parameter 'initialValue' isn't defined • lib/features/more/presentation/screens/profile_details_screen.dart:42:15 • undefined_named_parameter
+  error • Undefined name 'AppButton' • lib/features/more/presentation/screens/profile_details_screen.dart:47:13 • undefined_identifier
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:7:1 • directives_ordering
+warning • Unused import: 'package:agency_finance/domain/models/company.dart' • lib/features/more/presentation/screens/secondary_screens.dart:8:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:9:1 • directives_ordering
+warning • Unused import: 'package:agency_finance/domain/models/bank_account.dart' • lib/features/more/presentation/screens/secondary_screens.dart:9:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:11:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:13:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:14:1 • directives_ordering
+warning • Unused import: 'package:agency_finance/domain/models/vendor.dart' • lib/features/more/presentation/screens/secondary_screens.dart:14:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:15:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:18:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/secondary_screens.dart:20:1 • directives_ordering
+   info • Unnecessary use of multiple underscores • lib/features/more/presentation/screens/secondary_screens.dart:37:33 • unnecessary_underscores
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:42:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:43:19 • inference_failure_on_instance_creation
+warning • Dead code • lib/features/more/presentation/screens/secondary_screens.dart:58:47 • dead_code
+warning • The left operand can't be null, so the right operand is never executed • lib/features/more/presentation/screens/secondary_screens.dart:58:50 • dead_null_aware_expression
+   info • Unnecessary use of multiple underscores • lib/features/more/presentation/screens/secondary_screens.dart:94:33 • unnecessary_underscores
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:99:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:100:19 • inference_failure_on_instance_creation
+   info • Unnecessary use of multiple underscores • lib/features/more/presentation/screens/secondary_screens.dart:159:33 • unnecessary_underscores
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:164:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:165:19 • inference_failure_on_instance_creation
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/secondary_screens.dart:185:21 • prefer_const_constructors
+   info • Unnecessary use of multiple underscores • lib/features/more/presentation/screens/secondary_screens.dart:218:33 • unnecessary_underscores
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:223:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:224:20 • inference_failure_on_instance_creation
+   info • Unnecessary 'break' statement • lib/features/more/presentation/screens/secondary_screens.dart:274:9 • unnecessary_breaks
+   info • Unnecessary 'break' statement • lib/features/more/presentation/screens/secondary_screens.dart:277:9 • unnecessary_breaks
+   info • Unnecessary 'break' statement • lib/features/more/presentation/screens/secondary_screens.dart:280:9 • unnecessary_breaks
+   info • Invalid use of 'default' member in a switch • lib/features/more/presentation/screens/secondary_screens.dart:281:7 • no_default_cases
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:317:41 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:317:46 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:324:41 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:324:46 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:337:41 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:337:46 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:344:41 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:344:46 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:351:41 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:351:46 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/more/presentation/screens/secondary_screens.dart:371:41 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/more/presentation/screens/secondary_screens.dart:371:46 • inference_failure_on_instance_creation
+   info • Required named parameters should be before optional named parameters • lib/features/more/presentation/screens/secondary_screens.dart:428:19 • always_put_required_named_parameters_first
+warning • Unused import: 'package:hooks_riverpod/hooks_riverpod.dart' • lib/features/more/presentation/screens/security_settings_screen.dart:2:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/security_settings_screen.dart:3:1 • directives_ordering
+warning • Unused import: 'package:gap/gap.dart' • lib/features/more/presentation/screens/security_settings_screen.dart:3:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/security_settings_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/subscription_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/subscription_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/subscription_screen.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/more/presentation/screens/subscription_screen.dart:8:8 • always_use_package_imports
+warning • Unused import: '../../../../domain/models/subscription.dart' • lib/features/more/presentation/screens/subscription_screen.dart:8:8 • unused_import
+   info • Unnecessary use of multiple underscores • lib/features/more/presentation/screens/subscription_screen.dart:24:33 • unnecessary_underscores
+warning • Unused import: 'package:hooks_riverpod/hooks_riverpod.dart' • lib/features/more/presentation/screens/team_management_screen.dart:2:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/team_management_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/team_management_screen.dart:4:1 • directives_ordering
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/more/presentation/screens/team_management_screen.dart:16:19 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/team_management_screen.dart:17:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/team_management_screen.dart:24:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/more/presentation/screens/team_management_screen.dart:31:11 • prefer_const_constructors
+   info • Sort directive sections alphabetically • lib/features/more/presentation/screens/vendor_detail_screen.dart:3:1 • directives_ordering
+warning • Unused import: 'package:flutter/material.dart' • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:1:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:5:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:6:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:7:8 • always_use_package_imports
+   info • Catch clause should use 'on' to specify the type of exception being caught • lib/features/onboarding/presentation/controllers/onboarding_controller.dart:34:7 • avoid_catches_without_on_clauses
+   info • Sort directive sections alphabetically • lib/features/onboarding/presentation/screens/onboarding_screen.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/screens/onboarding_screen.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/screens/onboarding_screen.dart:6:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/screens/onboarding_screen.dart:7:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/onboarding/presentation/screens/onboarding_screen.dart:8:8 • always_use_package_imports
+   info • Unnecessary escape of ''' • lib/features/onboarding/presentation/screens/onboarding_screen.dart:35:20 • avoid_escaping_inner_quotes
+   info • 'Future'-returning calls in a non-'async' function • lib/features/onboarding/presentation/screens/onboarding_screen.dart:51:32 • discarded_futures
+   info • Sort directive sections alphabetically • lib/features/reports/presentation/screens/cashflow_report_screen.dart:3:1 • directives_ordering
+   info • Use 'const' with the constructor to improve performance • lib/features/reports/presentation/screens/cashflow_report_screen.dart:36:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/reports/presentation/screens/cashflow_report_screen.dart:38:20 • prefer_const_constructors
+   info • Sort directive sections alphabetically • lib/features/reports/presentation/screens/category_breakdown_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/reports/presentation/screens/reports_screen.dart:3:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/reports/presentation/screens/reports_screen.dart:8:1 • directives_ordering
+   info • 'Future'-returning calls in a non-'async' function • lib/features/reports/presentation/screens/reports_screen.dart:26:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/reports/presentation/screens/reports_screen.dart:26:44 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/reports/presentation/screens/reports_screen.dart:35:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/reports/presentation/screens/reports_screen.dart:35:44 • inference_failure_on_instance_creation
+   info • 'Future'-returning calls in a non-'async' function • lib/features/reports/presentation/screens/reports_screen.dart:44:39 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/reports/presentation/screens/reports_screen.dart:44:44 • inference_failure_on_instance_creation
+   info • To-do comment doesn't follow the Flutter style • lib/features/reports/presentation/screens/reports_screen.dart:59:11 • flutter_style_todos
+   info • Sort directive sections alphabetically • lib/features/reports/presentation/screens/vendor_spend_report_screen.dart:3:1 • directives_ordering
+   info • Unnecessary use of multiple underscores • lib/features/reports/presentation/screens/vendor_spend_report_screen.dart:19:31 • unnecessary_underscores
+warning • Unused import: 'package:flutter/material.dart' • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:1:8 • unused_import
+warning • Unused import: 'package:hooks_riverpod/hooks_riverpod.dart' • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:2:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:3:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:4:8 • always_use_package_imports
+warning • Unused import: '../../../../domain/models/transaction.dart' • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:4:8 • unused_import
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:5:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:5:8 • always_use_package_imports
+   info • Constructor declarations should be before non-constructor declarations • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:13:9 • sort_constructors_first
+warning • The type argument(s) of the constructor 'Future.delayed' can't be inferred • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:65:11 • inference_failure_on_instance_creation
+   info • A type annotation is needed because it isn't obvious • lib/features/transactions/presentation/controllers/transaction_form_controller.dart:70:1 • specify_nonobvious_property_types
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:7:8 • always_use_package_imports
+   info • Constructor declarations should be before non-constructor declarations • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:14:9 • sort_constructors_first
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:35:5 • discarded_futures
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:67:5 • discarded_futures
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:72:5 • discarded_futures
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/controllers/transaction_list_controller.dart:77:5 • discarded_futures
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/add_transaction_screen.dart:4:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/add_transaction_screen.dart:5:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/add_transaction_screen.dart:6:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/add_transaction_screen.dart:7:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/add_transaction_screen.dart:7:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/add_transaction_screen.dart:8:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/add_transaction_screen.dart:8:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/add_transaction_screen.dart:9:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/add_transaction_screen.dart:10:8 • always_use_package_imports
+   info • Use 'const' with the constructor to improve performance • lib/features/transactions/presentation/screens/add_transaction_screen.dart:101:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/transactions/presentation/screens/add_transaction_screen.dart:102:25 • prefer_const_literals_to_create_immutables
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/screens/add_transaction_screen.dart:140:41 • discarded_futures
+   info • Don't use 'BuildContext's across async gaps • lib/features/transactions/presentation/screens/add_transaction_screen.dart:141:38 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps • lib/features/transactions/presentation/screens/add_transaction_screen.dart:142:45 • use_build_context_synchronously
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/transaction_detail_screen.dart:4:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/transaction_detail_screen.dart:6:1 • directives_ordering
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/transaction_detail_screen.dart:10:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:4:8 • always_use_package_imports
+warning • Unused import: '../../../../core/theme/app_theme.dart' • lib/features/transactions/presentation/screens/transactions_screen.dart:4:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:5:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/transactions_screen.dart:6:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:6:8 • always_use_package_imports
+warning • Unused import: '../../../../core/widgets/app_buttons.dart' • lib/features/transactions/presentation/screens/transactions_screen.dart:6:8 • unused_import
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:7:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:8:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:9:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/screens/transactions_screen.dart:10:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:10:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:11:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/screens/transactions_screen.dart:12:8 • always_use_package_imports
+   info • To-do comment doesn't follow the Flutter style • lib/features/transactions/presentation/screens/transactions_screen.dart:28:13 • flutter_style_todos
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/screens/transactions_screen.dart:34:33 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/transactions/presentation/screens/transactions_screen.dart:34:38 • inference_failure_on_instance_creation
+   info • Closure should be a tearoff • lib/features/transactions/presentation/screens/transactions_screen.dart:48:30 • unnecessary_lambdas
+   info • Unnecessary use of multiple underscores • lib/features/transactions/presentation/screens/transactions_screen.dart:86:41 • unnecessary_underscores
+   info • 'Future'-returning calls in a non-'async' function • lib/features/transactions/presentation/screens/transactions_screen.dart:92:35 • discarded_futures
+warning • The type argument(s) of the constructor 'MaterialPageRoute' can't be inferred • lib/features/transactions/presentation/screens/transactions_screen.dart:92:49 • inference_failure_on_instance_creation
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/widgets/transaction_list_item.dart:3:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/widgets/transaction_list_item.dart:4:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/widgets/transaction_list_item.dart:5:8 • always_use_package_imports
+   info • Sort directive sections alphabetically • lib/features/transactions/presentation/widgets/transaction_list_item.dart:6:1 • directives_ordering
+   info • Use 'package:' imports for files in the 'lib' directory • lib/features/transactions/presentation/widgets/transaction_list_item.dart:6:8 • always_use_package_imports
+   info • Use 'package:' imports for files in the 'lib' directory • lib/main.dart:4:8 • always_use_package_imports
+   info • Dependencies not sorted alphabetically • pubspec.yaml:36:3 • sort_pub_dependencies
+   info • Dependencies not sorted alphabetically • pubspec.yaml:60:3 • sort_pub_dependencies
+   info • Sort directive sections alphabetically • test/widget_test.dart:11:1 • directives_ordering
+warning • Unused import: 'package:agency_finance/main.dart' • test/widget_test.dart:11:8 • unused_import
+   info • Sort directive sections alphabetically • test/widget_test.dart:12:1 • directives_ordering
+

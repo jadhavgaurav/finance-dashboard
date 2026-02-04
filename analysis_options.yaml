@@ -1,0 +1,12 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+linter:
+  rules:
+    public_member_api_docs: false
+    lines_longer_than_80_chars: false
+    omit_local_variable_types: false
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    sort_child_properties_last: true
+    unnecessary_await_in_return: true
+    unawaited_futures: true
